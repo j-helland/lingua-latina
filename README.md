@@ -1,5 +1,5 @@
 # The Third Triumvirate
-This repo primarily supports the wiki for cool stuff that we find / do as we journey through learning Latin.
+This repo primarily supports the wiki for super cool stuff that we find / do as we journey through learning Latin.
 It is intended to be collaboratively built.
 
 You can use the [Wiki](https://github.com/j-helland/lingua-latina/wiki) section of this repo to browse the pages quickly.
